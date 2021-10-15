@@ -21,8 +21,8 @@ ventasparsot@gmail.com
 
 | Parameter | Type     | Description                |
 | :-------- | :------- | :------------------------- |
-| `salary` | `string` | Salario del usuario|
-| `age` | `integer` | Edad del usuario|
+| `salary` | `String` | Salario del usuario|
+| `age` | `Integer` | Edad del usuario|
 
 #### Obtener el perfil de tarjeta con la pasión my business
 ```http
@@ -31,8 +31,8 @@ ventasparsot@gmail.com
 
 | Parameter | Type     | Description                |
 | :-------- | :------- | :------------------------- |
-| `salary` | `string` | Salario del usuario|
-| `age` | `integer` | Edad del usuario|
+| `salary` | `String` | Salario del usuario|
+| `age` | `Integer` | Edad del usuario|
 
 #### Obtener el perfil de tarjeta con la pasión my style
 ```http
@@ -41,8 +41,8 @@ ventasparsot@gmail.com
 
 | Parameter | Type     | Description                |
 | :-------- | :------- | :------------------------- |
-| `salary` | `string` | Salario del usuario|
-| `age` | `integer` | Edad del usuario|
+| `salary` | `String` | Salario del usuario|
+| `age` | `Integer` | Edad del usuario|
 
 #### Obtener el perfil de tarjeta con la pasión shopping
 ```http
@@ -51,8 +51,8 @@ ventasparsot@gmail.com
 
 | Parameter | Type     | Description                |
 | :-------- | :------- | :------------------------- |
-| `salary` | `string` | Salario del usuario|
-| `age` | `integer` | Edad del usuario|
+| `salary` | `String` | Salario del usuario|
+| `age` | `Integer` | Edad del usuario|
 
 #### Obtener el perfil de tarjeta con la pasión travels
 ```http
@@ -61,8 +61,8 @@ ventasparsot@gmail.com
 
 | Parameter | Type     | Description                |
 | :-------- | :------- | :------------------------- |
-| `salary` | `string` | Salario del usuario|
-| `age` | `integer` | Edad del usuario|
+| `salary` | `String` | Salario del usuario|
+| `age` | `Integer` | Edad del usuario|
 
 #### Obtener el perfil de tarjeta con la pasión sports
 ```http
@@ -71,8 +71,8 @@ ventasparsot@gmail.com
 
 | Parameter | Type     | Description                |
 | :-------- | :------- | :------------------------- |
-| `salary` | `string` | Salario del usuario|
-| `age` | `integer` | Edad del usuario|
+| `salary` | `String` | Salario del usuario|
+| `age` | `Integer` | Edad del usuario|
 
 
 
